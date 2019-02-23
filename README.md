@@ -4,6 +4,44 @@
 <h2>About</h2>
 <p>This theme is inspired by the Tumblr dashboard.</p>
 
+<h2>Contents</h2>
+<ul>
+  <li><a href="#features" title="go to features">Features</a></li>
+    <ul>
+      <li><a href="#layout" title="go to layout">Layout</a></li>
+      <li><a href="#posts" title="go to posts">Posts</a></li>
+      <li><a href="#design" title="go to design">Design</a></li>
+      <li><a href="#extras" title="go to extras">Extras</a></li>
+    </ul>  
+  <li><a href="#customization-guide" title="go to customization guide">Customization Guide</a></li>
+    <ul>
+      <li><a href="#golden-rules" title="go to golden rules">Golden Rules</a></li>
+      <li><a href="#colors" title="go to colors">Colors</a></li>
+        <ul>
+          <li><a href="#background" title="go to background">Background</a></li>
+          <li><a href="#bold" title="go to bold">Bold</a></li>
+          <li><a href="#border-1" title="go to border 1">Border 1</a></li>
+          <li><a href="#border-2" title="go to border 2">Border 2</a></li>
+          <li><a href="#border-3" title="go to border 3">Border 3</a></li>
+          <li><a href="#border-4" title="go to border 4">Border 4</a></li>
+          <li><a href="#border-5" title="go to border 5">Border 5</a></li>
+          <li><a href="#italic" title="go to italic">Italic</a></li>
+          <li><a href="#lightbox" title="go to lightbox">Lightbox</a></li>
+          <li><a href="#marked-text" title="go to marked text">Marked Text</a></li>
+          <li><a href="#post-background" title="go to post background">Post Background</a></li>
+          <li><a href="#text" title="go to text">Text</a></li>
+          <li><a href="#text-selection" title="go to text selection">Text Selection</a></li>
+          <li><a href="#user-reply" title="go to user reply">User Reply</a></li>
+          <li><a href="#color-accents" title="go to color accents">Color Accent</a></li>
+          <li><a href="#color-hover-accents" title="go to color hover accents">Color Hover Accents</a></li>
+        </ul>
+      <li><a href="#custom-links" title="go to custom links">Custom Links</a></li>
+      <li><a href="#tags-section" title="go to tags section">Tags Section</a></li>
+      <li><a href="#toggles" title="go to toggles">Toggles</a></li>
+    </ul>
+  <li><a href="#resources" title="go to resources">Resources</a></li>
+</ul>  
+
 <h2>Features</h2>
 <h3>Layout</h3>
 <ul>
