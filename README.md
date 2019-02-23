@@ -205,13 +205,13 @@
 <li><strong style="color:purple;">Purple Hover Accent</strong>: Hover accent color of tags and custom links.</li>
 </ul>
 <h3>Custom Links</h13>
-<p>Just as shown in the image below, if you want to show custom links on your theme, both the toggle &ldquo;<strong>Show Links</strong>&rdquo; and the toggles for each custom link need to be active (<strong style="color:blue;">blue</strong>).</p>
+<p>Just as shown in the image below, if you want to show custom links on your theme, both the toggle &ldquo;<strong>Show Links</strong>&rdquo; and the toggles for each custom link need to be active (<strong>blue</strong>).</p>
 <p><img src="https://66.media.tumblr.com/91463cd1534398d2ad08908a7f2994f8/tumblr_inline_pne94byHSO1v0e5mg_500.png" /></p>
 <p>To customize the links to your liking, you need to add the link URL under &ldquo;<strong>Custom URL N</strong>&rdquo;, the title of the link under &ldquo;<strong>Custom Link N</strong>&rdquo; and the link&rsquo;s icon under &ldquo;<strong>Custom Icon N</strong>&rdquo;, just as shown in the image below.</p>
 <p><img src="https://66.media.tumblr.com/e0c09e9093217ae44991d0c937a07d59/tumblr_inline_pne974t2HE1v0e5mg_500.png" /></p>
 <p></p>
 <h3>Tags Section</h3>
-<p>The tags displayed in the tags section of the sidebar work similar to the links in the custom link section. The toggle "<strong>Show Tags</strong>" needs to be active (<strong style="color:blue;">blue</strong>), and you need to add the name of the tag (full URL: blog.tumblr.com/tagged/<strong>tag</strong> &ndash; only&nbsp;"<strong>tag</strong>" needs to be put under the URL section for the tag) in the URL and the title section.</p>
+<p>The tags displayed in the tags section of the sidebar work similar to the links in the custom link section. The toggle "<strong>Show Tags</strong>" needs to be active (<strong>blue</strong>), and you need to add the name of the tag (full URL: blog.tumblr.com/tagged/<strong>tag</strong> &ndash; only&nbsp;"<strong>tag</strong>" needs to be put under the URL section for the tag) in the URL and the title section.</p>
 <h3>Toggles</h3>
 <ul>
 <li><strong>Show Tags</strong>: Allows you to show or hide tags on the index page.</li>
