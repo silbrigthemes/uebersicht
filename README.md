@@ -204,7 +204,7 @@
 <li><strong style="color:blue;">Blue Hover Accent</strong>: Hover accent color of tags and custom links.</li>
 <li><strong style="color:purple;">Purple Hover Accent</strong>: Hover accent color of tags and custom links.</li>
 </ul>
-<h3>Custom Links</h13>
+<h3>Custom Links</h3>
 <p>Just as shown in the image below, if you want to show custom links on your theme, both the toggle &ldquo;<strong>Show Links</strong>&rdquo; and the toggles for each custom link need to be active (<strong>blue</strong>).</p>
 <p><img src="https://66.media.tumblr.com/91463cd1534398d2ad08908a7f2994f8/tumblr_inline_pne94byHSO1v0e5mg_500.png" /></p>
 <p>To customize the links to your liking, you need to add the link URL under &ldquo;<strong>Custom URL N</strong>&rdquo;, the title of the link under &ldquo;<strong>Custom Link N</strong>&rdquo; and the link&rsquo;s icon under &ldquo;<strong>Custom Icon N</strong>&rdquo;, just as shown in the image below.</p>
