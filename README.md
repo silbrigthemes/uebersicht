@@ -2,7 +2,9 @@
 Übersicht | Dashboard (Theme #15)
 
 <h2>About</h2>
-<p>This theme is inspired by the Tumblr dashboard.</p>
+<p>This theme is inspired by the Tumblr dashboard. | <a href="https://uebersichttheme.tumblr.com/" title="go to live preview">Live Preview</a></p>
+<img src="https://66.media.tumblr.com/597026b01dd4b2b548d4499d43b828e8/tumblr_pn1lj4MPjk1wsskx3o6_r1_1280.png" alt="responsive layout displayed"/>
+<p><i>Theme displayed on different devices.</i></p>
 
 <h2>Contents</h2>
 <ul>
