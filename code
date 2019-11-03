@@ -799,7 +799,7 @@ Have fun!
             }
             
             figure.tmblr-full img{
-                width:100%;
+                max-width:100%;
             }
             
             /** PHOTOSETS **/
@@ -2986,11 +2986,11 @@ Have fun!
                             <div class="s-tag four"><span class="fas fa-tags"></span> {text:Tag 4}</div>
                         </a>
                         
-                        <a href="tagged/{text:Tag URL 5}" title="{text:Tag 5}" class="taglink">
+                        <a href="/tagged/{text:Tag URL 5}" title="{text:Tag 5}" class="taglink">
                             <div class="s-tag five"><span class="fas fa-tags"></span> {text:Tag 5}</div>
                         </a>
                         
-                        <a href="tagged/{text:Tag URL 6}" title="{text:Tag 6}" class="taglink">
+                        <a href="/tagged/{text:Tag URL 6}" title="{text:Tag 6}" class="taglink">
                             <div class="s-tag six"><span class="fas fa-tags"></span> {text:Tag 6}</div>
                         </a>
                     </div>
