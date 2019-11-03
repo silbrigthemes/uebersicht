@@ -999,11 +999,15 @@ Have fun!
                 margin-top:8px;
             }
             
-            .question img, .answer img{
+            .question-username img, .answer-username img{
                 width:32px;
                 height:32px;
                 border-radius:50%;
                 margin-right:8px;
+            }
+            
+            .answer figure.tmblr-full img{
+                max-width:100%;
             }
             
             .question-username, .answer-username{
